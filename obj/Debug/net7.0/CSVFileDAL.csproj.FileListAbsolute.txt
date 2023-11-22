@@ -1,0 +1,14 @@
+C:\fnf\19_sept\CSVFileDAL\obj\Debug\net7.0\CSVFileDAL.csproj.AssemblyReference.cache
+C:\fnf\19_sept\CSVFileDAL\obj\Debug\net7.0\CSVFileDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\fnf\19_sept\CSVFileDAL\obj\Debug\net7.0\CSVFileDAL.AssemblyInfoInputs.cache
+C:\fnf\19_sept\CSVFileDAL\obj\Debug\net7.0\CSVFileDAL.AssemblyInfo.cs
+C:\fnf\19_sept\CSVFileDAL\obj\Debug\net7.0\CSVFileDAL.csproj.CoreCompileInputs.cache
+C:\fnf\19_sept\CSVFileDAL\bin\Debug\net7.0\CSVFileDAL.deps.json
+C:\fnf\19_sept\CSVFileDAL\bin\Debug\net7.0\CSVFileDAL.runtimeconfig.json
+C:\fnf\19_sept\CSVFileDAL\bin\Debug\net7.0\CSVFileDAL.dll
+C:\fnf\19_sept\CSVFileDAL\bin\Debug\net7.0\CSVFileDAL.pdb
+C:\fnf\19_sept\CSVFileDAL\obj\Debug\net7.0\CSVFileDAL.dll
+C:\fnf\19_sept\CSVFileDAL\obj\Debug\net7.0\refint\CSVFileDAL.dll
+C:\fnf\19_sept\CSVFileDAL\obj\Debug\net7.0\CSVFileDAL.pdb
+C:\fnf\19_sept\CSVFileDAL\obj\Debug\net7.0\CSVFileDAL.genruntimeconfig.cache
+C:\fnf\19_sept\CSVFileDAL\obj\Debug\net7.0\ref\CSVFileDAL.dll
